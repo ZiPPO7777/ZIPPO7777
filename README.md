@@ -1,5 +1,5 @@
 
-![logo](https://github.com/ZiPPO7777/ZIPPO7777/blob/main/github-header-image.png)
+![logo]([https://github.com/ZiPPO7777/ZIPPO7777/blob/main/github-header-image.png](https://github.com/ZiPPO7777/ZIPPO7777/blob/main/github-header-image%20(1).png))
 
 <h1 align="center">Hi 👋 I am , Bulbul Hassan A.K.A ZiPPO</h1>
 <h3 align="center">A fearless coder, determined to write the software that will change the world as we know it</h3>
